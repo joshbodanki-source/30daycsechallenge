@@ -11,12 +11,21 @@ To practice variables, data types, input/output statements, arithmetic operators
 ## Algorithm
 
 1. Start.
+   
 2.Declare variables for distance, mileage, fuel price, fuel required, and total fuel cost.
+
 3.Read the total distance to be travelled in kilometres.
+
 4.Read the vehicle's mileage in kilometres per litre.
+
 5.Read the current fuel price per litre.
+
 6.Calculate the fuel required.
+
 7.Calculate the total fuel cost.
+
 8.Display the fuel required for the trip.
+
 9.Display the total fuel cost.
+
 10.Stop.
