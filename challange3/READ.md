@@ -5,6 +5,26 @@ A student is purchasing items from an online store. Write a C program to read th
 Objective
 
 To apply if, else if, else, relational operators, logical operators, and arithmetic expressions to solve a multi-condition decision-making problem in C.
+Algorithm
+Start
+
+Read the purchase amount.
+
+Read the customer type.
+
+Read the delivery distance.
+
+Based on the customer type and given conditions determine the discount.
+
+Calculate the amount after discount.
+
+Based on given conditions determine the delivery charge.
+
+Calculate the payable amount.
+
+Display the purchase amount, discount, amount after discount, delivery charge and final payable amount.
+
+Stop.
 
 Discount Rules
 
